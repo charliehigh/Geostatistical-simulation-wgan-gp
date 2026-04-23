@@ -1,5 +1,13 @@
 # Thesis Summary
 
-This project is based on my M.S. thesis in Mining Engineering at Michigan Technological University.
+This repository is based on my M.S. thesis in Mining Engineering at Michigan Technological University.
 
-The work developed a multi-loss Wasserstein GAN with Gradient Penalty (WGAN-GP) framework for geostatistical simulation, with applications to geological uncertainty modeling and spatially consistent realization generation for mining decision support.
+The project developed a multi-loss Wasserstein Generative Adversarial Network with Gradient Penalty (WGAN-GP) framework for geostatistical simulation. The framework was designed to generate geologically realistic realizations that preserve structural and spatial properties of training images for uncertainty-aware mine planning and mineral resource modeling.
+
+## Main Elements
+- WGAN-GP architecture
+- Feature Matching Loss
+- Structural Similarity (SSIM) Loss
+- Pixel Intensity Loss
+- Conditional and unconditional simulation
+- Variogram-based evaluation

@@ -38,6 +38,9 @@ Traditional methods often struggle to capture complex spatial patterns and may b
 - `figures/` – generated realizations and plots  
 - `docs/` – thesis summary and notes  
 
+## Sample Results
+
+![Generated Realizations](figures/generated_realizations.png)
 ## Status
 Work in progress — code and documentation are being structured for public release.
 

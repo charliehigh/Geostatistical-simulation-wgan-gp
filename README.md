@@ -1,4 +1,4 @@
-# Geostatistical Simulation with Multi-Loss WGAN-GP
+# geostatistical Simulation with Multi-Loss WGAN-GP
 
 ## Overview
 This repository presents a multi-loss Wasserstein Generative Adversarial Network (WGAN-GP) framework for geostatistical simulation.
